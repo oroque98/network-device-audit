@@ -1,0 +1,7 @@
+devices:
+  - name: LAB-SW01
+    host: 192.0.2.10
+    device_type: aruba_aoscx
+  - name: LAB-SW02
+    host: 192.0.2.11
+    device_type: aruba_aoscx

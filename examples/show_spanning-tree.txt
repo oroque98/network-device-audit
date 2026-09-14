@@ -1,0 +1,2 @@
+Spanning tree status : Enabled
+Root ID               : 32768:001122334455

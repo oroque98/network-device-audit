@@ -1,0 +1,3 @@
+Member  Product            Role      Status
+1       JL659A             Active    Ready
+2       JL659A             Standby   Ready

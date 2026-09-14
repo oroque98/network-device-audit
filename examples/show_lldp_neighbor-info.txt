@@ -1,0 +1,2 @@
+Local Port  ChassisId          PortId      System Name
+1/1/48      00:11:22:33:44:55  Ethernet1   LAB-CORE01

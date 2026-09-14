@@ -1,0 +1,10 @@
+hostname LAB-SW01
+spanning-tree
+ntp server 192.0.2.123
+lldp enable
+vlan 10
+    name USERS
+vlan 20
+    name VOICE
+vlan 30
+    name IOT

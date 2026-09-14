@@ -1,0 +1,18 @@
+required_vlans:
+  - id: 10
+    name: USERS
+  - id: 20
+    name: VOICE
+  - id: 30
+    name: IOT
+
+stack:
+  minimum_members: 2
+
+checks:
+  require_ntp: true
+  require_lldp: true
+  require_spanning_tree: true
+
+interface_hygiene:
+  warn_on_up_without_description: true

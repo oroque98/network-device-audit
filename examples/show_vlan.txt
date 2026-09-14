@@ -1,0 +1,6 @@
+VLAN  Name                              Status
+----  --------------------------------  --------
+1     DEFAULT_VLAN_1                    up
+10    USERS                             up
+20    VOICE                             up
+30    IOT                               up

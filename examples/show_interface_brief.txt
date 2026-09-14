@@ -1,0 +1,4 @@
+Port      Native  Mode  Type           Enabled Status
+1/1/1     10      access 1GbT          yes     up
+1/1/2     10      access 1GbT          yes     down
+1/1/48    1       trunk  10GbE         yes     up Uplink-to-Core
